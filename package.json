@@ -4,11 +4,11 @@
   "description": "Keep your code piping hot! Live code reloading without additional binaries",
   "main": "lib/piping.js",
   "dependencies": {
-    "chokidar": "^1.1.0",
-    "colors": "1.0.x"
+    "chokidar": "^3.2.2",
+    "colors": "^1.4.0"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.0"
+    "coffeescript": "^2.4.1"
   },
   "repository": "git://github.com/mdlawson/piping.git",
   "keywords": [
